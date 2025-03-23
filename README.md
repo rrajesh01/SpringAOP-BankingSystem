@@ -9,7 +9,7 @@ Annotation-based Spring Configuration
 
 
 Tech Stack
-Java
-Spring Core	
-Spring AOP	
-Maven & Eclipse
+(Java,
+Spring Core,
+Spring AOP,	
+Maven & Eclipse)
